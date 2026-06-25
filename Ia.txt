@@ -1,0 +1,7 @@
+La inteligencia artificial (IA) es la simulación de procesos de inteligencia humana por parte de sistemas informáticos
+
+Ayuda a un desarrollador en generar codigo, Busca errores y lo explica
+
+Nos ayuda a ahorrar tiempo y siempre va a ser constante 
+
+Pero comete muchos errores y no tiene cierta razon
