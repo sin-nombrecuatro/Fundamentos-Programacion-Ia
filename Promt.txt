@@ -1,0 +1,22 @@
+¿Que es un Pormt?
+
+Un Pormt es una instruccion dada por una persona hacia las Inteligencias Artificiales,
+sirve para darle una tarea al sistema, como si les estuvieras dando un comando.
+
+¿Por qué es importante escribir buenos prompts?
+
+porque la Ia te podria dar respuestas vagas, que no van al sentido que tu necesitas,
+como tambien no las pueden dar completas o se podria llegar a inventar mas informacion,
+por ultimo este va a sonar muy robotico,ya no tendrias que revisar tu solo si algo suena
+muy "Ia" si no que tambien tendras que cambiar muchas palabras por el lenguaje colonial
+que utilizamos nostros
+
+Escribir tres recomendaciones para crear mejores prompts.
+
+1. Asignarle un Rol, esto es lo principal, ya que ajustara su vocabulario, el nivel de 
+detalle y el enfoque que va a tomar
+
+2. Especificar que formato y la extension de tal, esto evita respouestas en bloques y desordenadas
+
+3. Proporcianar algunos ejemplos, ya que la Ia te entiende mejor cuadno demuestras el como quieres 
+el resultado, adjjunta fragmento de lo que tengas y demuestra que tienes algun estilo para Escribir
